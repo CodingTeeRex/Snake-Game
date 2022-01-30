@@ -23,4 +23,4 @@ Use WASD keys to move.
 ## Sample Image
 Here is a sample image for illustration purposes. \
 <br/>
-![sample](sample.jpg)
+![Sample](sample.jpg)
