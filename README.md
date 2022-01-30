@@ -10,7 +10,7 @@ A classic snake game that everybody loves! ❤️ This was created using Python 
 ---
 
 ## Rquirements
-> 1. Python 3
+> 1. [Python 3](https://www.python.org/downloads/)
 > 2. [pygame](https://www.pygame.org/docs/)
 
 ---
